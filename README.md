@@ -1,9 +1,9 @@
-# COzy-Home-Rentals
+# RealEstateExplore.com
 
 ### Deployed url :- https://homesweeter.netlify.app/
 
 ### Description :-
-COzy-Home-Rentals is an e-commerce platform which acts as a one stop solution to buy, sell or rent properties with ease.
+RealEstateExplore.com is an e-commerce platform which acts as a one stop solution to buy, sell or rent properties with ease.
 Users can browse through various properties, schedule appointments, directly buy the properties and even list their own properties to sell on this platform.
 
 ### Tech Stack Used :-
